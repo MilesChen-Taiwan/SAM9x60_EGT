@@ -1,0 +1,1 @@
+dash.o: ../dash.cpp
